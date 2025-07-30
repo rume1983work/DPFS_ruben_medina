@@ -1,49 +1,31 @@
-# 🎮 ElectroGamer - Marketplace de Videojuegos y Accesorios
+# 📚 Only  Online - Proyecto E-commerce de Libros
 
-## 🛒 Descripción del sitio
+## 1. Descripción del sitio y público objetivo
 
-**ElectroGamer** es una tienda online dedicada exclusivamente a la venta de videojuegos físicos y digitales, consolas y una amplia variedad de accesorios para **PlayStation**, **Xbox**, **Nintendo Switch** y **PC Gaming**. Nuestro objetivo es ofrecer una experiencia de compra **intuitiva, rápida y segura** para todos los apasionados por el mundo gamer.
+Esta tienda online está dedicada a la venta de libros en formato físico y digital, abarcando una amplia variedad de géneros como literatura, educación, infantil, tecnología, desarrollo personal y más. El sitio ofrecerá una experiencia de compra optimizada, con funcionalidades como búsqueda avanzada, valoraciones de usuarios, recomendaciones personalizadas y carrito de compras.
 
-Contamos con productos **originales y con garantía**, **promociones exclusivas**, **métodos de pago seguros** y **envíos a todo el país**.
-
----
-
-## 🧑‍💻 Público objetivo
-
-Nuestro público está compuesto por:
-
-- 🎮 **Gamers casuales y profesionales**, principalmente entre **13 y 40 años**, interesados en videojuegos, consolas y periféricos.
-- 👨‍👩‍👧‍👦 **Padres o tutores** que buscan productos para regalar.
-- 🎥 **Streamers y creadores de contenido** que requieren equipamiento especializado (micrófonos, cámaras, auriculares, etc.).
-
-### Ajuste de oferta
-
-- ✅ Usabilidad adaptada a usuarios jóvenes y activos digitalmente.
-- 🔥 Ofertas y promociones destacadas.
-- 📱 Diseño **responsive** para dispositivos móviles.
-- 🎯 Filtrado por consola, género y accesorios específicos.
+**Público objetivo:**  
+- Lectores frecuentes de todas las edades  
+- Estudiantes en búsqueda de material académico  
+- Padres interesados en literatura infantil  
+- Profesionales que consumen libros de negocios o autoayuda  
 
 ---
 
-## 🔍 Sitios de referencia
+## 2. Descripción personal
 
-- [GamePlanet](https://www.gameplanet.com/)  
-  Referencia por su gran catálogo, diseño limpio y navegación intuitiva.
-
-- [XtraLife](https://www.xtralife.com/)  
-  Interfaz moderna, con ofertas destacadas y sistema de puntos de fidelidad.
-
-- [GameStop](https://www.gamestop.com/)  
-  Líder del mercado en retail de videojuegos. Funcionalidades completas: filtros, opiniones, lanzamientos y usados.
-
-- [ZonaGamers Paraguay](https://www.zonagamers.com.py/)  
-  Tienda local con productos bien segmentados por consola y accesorios.
-
-- [Amazon Gaming](https://www.amazon.com/gaming)  
-  Si bien no es específico, es útil como ejemplo de buena experiencia de usuario, búsquedas rápidas y variedad de marcas.
+Soy analista de sistemas y programador, con experiencia en el desarrollo de aplicaciones web y móviles. Trabajo con tecnologías como PowerBuilder, Java, HTML, CSS, JavaScript, PHP y SQL. Me enfoco en crear soluciones robustas, funcionales y con una interfaz intuitiva, siempre considerando la experiencia del usuario y el rendimiento como prioridades.
 
 ---
 
-## 👨 Sobre mí
+## 3. Sitios similares de referencia
 
-Me llamo **Ruben Medina**, soy **analista de sistemas y programador** con experiencia en desarrollo **web y móvil**. Me apasionan los videojuegos y me encanta combinar mis habilidades técnicas con mi afición por el mundo gamer. Este proyecto refleja mi compromiso por crear plataformas funcionales, atractivas y enfocadas en el usuario.
+| Tipo de interés                       | Sitio web                                        | Descripción breve                                                                 |
+|--------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
+| 🛍️ Productos similares               | [Book Depository](https://www.bookdepository.com/)  | Diseño limpio y minimalista, enfocado en la experiencia de navegación.      |
+| 🎯 Público objetivo similar          | [Goodreads](https://www.goodreads.com/)         | Red social de lectores con reseñas y listas de lectura, ideal para lectores activos. |
+| 🎨 Estética de referencia            | [Casa del Libro](https://www.casadellibro.com/)| Filtros avanzados, carrito optimizado y sistema de reseñas integrado.          |
+| ⚙️ Funcionalidades implementadas     | [Todo Libros](https://www.todolibros.es/es/) | Filtros avanzados, categorias.             |
+| 🔎 Referencia general completa       | [Buscalibre](https://www.buscalibre.com/)       | E-commerce internacional centrado en libros, con enfoque en importación y variedad. |
+
+---
