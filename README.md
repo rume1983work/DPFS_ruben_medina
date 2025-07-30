@@ -1,4 +1,4 @@
-# 📚 Only  Online - Proyecto E-commerce de Libros
+# 📚 Onlibros - Proyecto E-commerce de Libros
 
 ## 1. Descripción del sitio y público objetivo
 
