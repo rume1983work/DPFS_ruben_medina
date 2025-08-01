@@ -1,0 +1,113 @@
+
+/* Estilo general */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.auth-box {
+  background-color: #fff;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  max-width: 450px;
+  width: 100%;
+}
+
+.tab-header {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tab-link {
+  background: none;
+  border: none;
+  font-weight: 600;
+  padding: 0.8rem 1.5rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  font-size: 16px;
+  color: #333;
+}
+
+.tab-link.active {
+  color: #e60023;
+  border-bottom: 2px solid #e60023;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+form label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+form input {
+  padding: 0.75rem;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  transition: border 0.3s;
+}
+
+form input:focus {
+  border-color: #e60023;
+  outline: none;
+}
+
+.btn-submit {
+  background-color: #e60023;
+  color: #fff;
+  border: none;
+  padding: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+
+.btn-submit:hover {
+  background-color: #cc001f;
+}
+
+/* === Forgot Password Link === */
+.password-reset {
+  text-align: right;
+  margin-top: -0.8rem;
+  margin-bottom: 1rem;
+}
+
+.forgot-link {
+  font-size: 14px;
+  color: #999;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.forgot-link:hover {
+  color: #e60023;
+}

@@ -1,0 +1,106 @@
+
+.checkout-area {
+
+  font-family: 'Rubik', sans-serif;
+  background: #fff;
+
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.checkout-title {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.checkout-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.checkout-form, .checkout-summary {
+  background: #f9f9f9;
+  padding: 30px;
+  border-radius: 6px;
+  flex: 1;
+  min-width: 300px;
+}
+
+.checkout-form h3, .checkout-summary h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.checkout-form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.checkout-form input[type="text"],
+.checkout-form input[type="email"],
+.checkout-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.checkout-form textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.checkout-form .row {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0;
+}
+
+.checkout-form .row .col {
+  flex: 1;
+}
+
+.checkout-summary table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.checkout-summary table th,
+.checkout-summary table td {
+  text-align: left;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.checkout-summary .order-total td {
+  font-weight: bold;
+}
+
+.btn-block {
+  width: 100%;
+  padding: 12px;
+  background-color: #e60023;
+  color: #fff;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn-block:hover {
+  background-color: #c6001f;
+}

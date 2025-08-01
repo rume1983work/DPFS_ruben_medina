@@ -29,3 +29,6 @@ Soy analista de sistemas y programador, con experiencia en el desarrollo de apli
 | 🔎 Referencia general completa       | [Buscalibre](https://www.buscalibre.com/)       | E-commerce internacional centrado en libros, con enfoque en importación y variedad. |
 
 ---
+
+## 3. Tablero trello
+| ⚙️ Tablero OnLibros     | [Trello](https://trello.com/invite/b/688a9b2f12e408802f6c221e/ATTI54bd2d812cb9c7358065cbf5d38ead835A76D5EC/tablero-onlibros) | Filtros avanzados, categorias.             |

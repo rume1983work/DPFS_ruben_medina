@@ -1,0 +1,55 @@
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+.header-area .logo img {
+  max-height: 45px;
+}
+
+.search-box input {
+  height: 40px;
+  padding: 5px 15px;
+}
+
+.header-icons a {
+  font-size: 18px;
+  color: #333;
+}
+
+.main-menu .nav-link {
+  font-weight: 500;
+  color: #333;
+}
+.main-menu .nav-link.active,
+.main-menu .nav-link:hover {
+  color: #e60023;
+}
+
+.carousel-caption {
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+  max-width: 500px;
+}
+
+.carousel-caption h2 {
+  font-size: 2rem;
+  color: #fff;
+}
+.carousel-caption p {
+  color: #eee;
+}
+.btn-danger {
+  background-color: #e60023;
+  border: none;
+}
+.btn-danger:hover {
+  background-color: #cc001f;
+}
+
+.icon-style {
+  font-size: 2.5rem;
+  color: #e60023;
+}
